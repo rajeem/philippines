@@ -435,18 +435,18 @@ Catanduanes:
 - Viga
 - Virac
 Cavite:
+- Bacoor City
 - Cavite City
 - Dasmariñas City
+- General Trias City
+- Imus City
 - Tagaytay City
 - Trece Martires City
 - Alfonso
 - Amadeo
-- Bacoor
 - Carmona
 - General Mariano Alvarez
 - General Emilio Aguinaldo
-- General Trias
-- Imus
 - Indang
 - Kawit
 - Magallanes
@@ -732,6 +732,7 @@ Iloilo:
 - Zarraga
 Isabela:
 - Cauayan City
+- Ilagan City
 - Santiago City
 - Alicia
 - Angadanan
@@ -746,7 +747,6 @@ Isabela:
 - Divilacan
 - Echague
 - Gamu
-- Ilagan City
 - Jones
 - Luna
 - Maconacon
@@ -800,12 +800,13 @@ La Union:
 - Tubao
 Laguna:
 - Biñan City
+- Cabuyao City
 - Calamba City
 - San Pablo City
+- San Pedro City
 - Santa Rosa City
 - Alaminos
 - Bay
-- Cabuyao
 - Calauan
 - Cavinti
 - Famy
@@ -824,7 +825,6 @@ Laguna:
 - Pangil
 - Pila
 - Rizal
-- San Pedro
 - Santa Cruz
 - Santa Maria
 - Siniloan
@@ -1270,6 +1270,7 @@ Palawan:
 Pampanga:
 - Angeles City
 - City of San Fernando
+- Mabalacat City
 - Apalit
 - Arayat
 - Bacolor
@@ -1277,7 +1278,6 @@ Pampanga:
 - Floridablanca
 - Guagua
 - Lubao
-- Mabalacat
 - Macabebe
 - Magalang
 - Masantol
